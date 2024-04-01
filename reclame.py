@@ -19,7 +19,7 @@ def gemiddelde(mijn_lijst):
 inkomsten_deze_week = [220, 430, 125, 160, 205, 90, 345]
 print(laag_en_hoog(inkomsten_deze_week))
 print(gemiddelde(inkomsten_deze_week))
-from algemene_functies import mijn_functie_2  # Importeer de functie mijn_functie_2 uit het bestand 'algemene_functies.py'
+from algemene_functies import mijn_functie_2  
 
 def hoog_en_laag(invoer_lijst):
     laagste_waarde = min(invoer_lijst)
